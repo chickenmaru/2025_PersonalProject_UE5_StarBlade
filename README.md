@@ -1,5 +1,3 @@
-# 🚀 Star Blade 🚀
-
 # 🛑 WIP NOTICE 🛑
 This project is currently in active development. Features, assets, and gameplay are subject to change. Expect bugs, incomplete systems, and ongoing improvements. Play at your own risk! An English introduction video is planned soon.
 
