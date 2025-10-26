@@ -1,6 +1,10 @@
 # 📹 Demo Video
 Chinese Version:
-English version:
+English version:https://www.youtube.com/watch?v=M15PlRQyBwo
+
+# 📹 Scene Display 
+<img width="1057" height="873" alt="image" src="https://github.com/user-attachments/assets/23991c69-3b43-492a-b9a6-b7ecbdc562d5" />
+
 
 # 🛑 WIP NOTICE 🛑
 This project is currently in active development. Features, assets, and gameplay are subject to change. Expect bugs, incomplete systems, and ongoing improvements. Play at your own risk! An English introduction video is planned soon.
