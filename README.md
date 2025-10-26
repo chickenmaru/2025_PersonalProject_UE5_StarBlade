@@ -9,11 +9,16 @@ Navigate crumbling ruins, tackle mission objectives—like hacking ancient termi
 Core Loop:
 
 Run & Gun: Dash toward objectives while auto-spawning enemies ambush you from all sides.
+
 Skill Mastery: Master three unique skills (each with individual cooldowns) + basic attacks to clear hordes.
 
+
 Skill 1: Slash with a Knife (single-target high-damage strike).
+
 Skill 2: Slash with Three Knives (multi-target tracking strike).
+
 Skill 3: Shoot a Massive Fireball (area explosion with burn effect).
+
 
 
 Quest-Driven Progression: Tasks unlock story beats, upgrades, and the final helicopter rescue.
@@ -31,13 +36,19 @@ Coming Soon: Full release with polish, achievements, and additional content.
 # 🛠 Tech Stack
 
 Engine: Unreal Engine 5.4+ (Blueprints + C++ for core systems)
+
 Combat: Gameplay Ability System (GAS) for skills/cooldowns
+
 Enemies: Behavior Trees + EQS for spawning/AI
+
 Quests: Custom Data Tables + Event Dispatchers
+
 Audio: FMOD integration for adaptive sci-fi soundtrack
+
 Controls: Keyboard/Mouse
 
-| AAction | Keyboard/Mouse |
+# 📱 Controls
+| Action | Keyboard/Mouse |
 | :--- | :--- |
 | `Move ` | WASD |
 | `Jump` | Space |
