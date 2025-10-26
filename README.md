@@ -3,7 +3,7 @@ This project is currently in active development. Features, assets, and gameplay 
 
 # 📖 Game Overview
 Star Blade is a thrilling third-person action game built in Unreal Engine 5. You play as a stranded explorer on the hostile alien planet Zorath, battling endless waves of mutated alien creatures spawned via an advanced procedural enemy generation system while fleeing and completing dynamic quests to survive.
-Navigate crumbling ruins, tackle mission objectives—like hacking ancient terminals or collecting resources—to trigger key events and unlock the signal flare. Your ultimate goal: successfully launch a signal flare to summon a rescue helicopter and escape amid enemy chaos.
+Navigate crumbling ruins, tackle mission objectives—like collecting resources—to trigger key events and unlock the signal flare. Your ultimate goal: successfully launch a signal flare to summon a rescue helicopter and escape amid enemy chaos.
 Core Loop:
 
 Run & Gun: Dash toward objectives while auto-spawning enemies ambush you from all sides.
