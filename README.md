@@ -1,5 +1,5 @@
 # 📹 Demo Video
-Chinese Version:
+
 English version:https://www.youtube.com/watch?v=M15PlRQyBwo
 
 # 📹 Scene Display 
